@@ -1,0 +1,13 @@
+.person-card {
+  width: 32%;
+  margin-left: 1%;
+  border: 1px solid;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.person-card img {
+  width: 50%;
+  display: block;
+  margin: 10px auto
+}
